@@ -1,0 +1,4 @@
+C:\Users\Yessi\source\repos\Proyecto\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.csprojAssemblyReference.cache
+C:\Users\Yessi\source\repos\Proyecto\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Yessi\source\repos\Proyecto\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.AssemblyInfoInputs.cache
+C:\Users\Yessi\source\repos\Proyecto\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.AssemblyInfo.cs
